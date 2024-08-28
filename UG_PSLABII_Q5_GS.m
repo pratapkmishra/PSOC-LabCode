@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This program performs Gauss-Siedel Load Flow for a five-bus system
 % Bus 3 is PV bus
-% $Author: Pratap Keshari Mishra$ $Date: 27-Jun-2022 $    $Version: 1.0$
+% $Author: Pratap Keshari Mishra$ $Date: 28-Aug-2024 $    $Version: 1.0$
 % $Veer Surendra Sai University of Technology, Burla, Odisha, India$
 %@Author: Pratap Keshari Mishra
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

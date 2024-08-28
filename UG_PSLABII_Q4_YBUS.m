@@ -2,7 +2,7 @@
 function [Ybus, yc] = UG_PSLABII_Q4_YBUS %defines a function Y_BUS with outputs yb,yc
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This function generates bus admittance matrix Y_BUS
-% $Author: Pratap Keshari Mishra$ $Date: 27-Jun-2022 $    $Version: 1.0$
+% $Author: Pratap Keshari Mishra$ $Date: 28-Aug-2024 $    $Version: 1.0$
 % $Veer Surendra Sai University of Technology, Burla, Odisha, India$
 %@Author: Pratap Keshari Mishra
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

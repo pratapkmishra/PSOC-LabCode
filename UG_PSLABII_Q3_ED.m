@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This program solves economic dispatch problem with losses
-% $Author: Pratap Keshari Mishra$ $Date: 27-Jun-2022 $    $Version: 1.0$
+% $Author: Pratap Keshari Mishra$ $Date: 28-Aug-2024 $    $Version: 1.0$
 % $Veer Surendra Sai University of Technology, Burla, Odisha, India$
 %@Author: Pratap Keshari Mishra
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
